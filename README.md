@@ -21,7 +21,7 @@ Affichage des messages : Chaque message est affiché avec le nom de l'expéditeu
 
 <h4>Exemple d'interface utilisateur</h4>
 <p>popup pour entre nom d'utilisateur</p>
-<img src="src/main/resources/net/me/chat_application/views/images/img.png">
+<img src="src/main/resources/net/me/chat_application/views/images/popup.PNG">
 <p>chat client</p>
 <img src="src/main/resources/net/me/chat_application/views/images/chatClinet.PNG">
 <p>chat server</p>
